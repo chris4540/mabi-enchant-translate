@@ -5,9 +5,11 @@
 1. Using langchain and related tech, translate a query into a SQL query with defined MRO.
 
 
-## Technique
-Query Construction: 
-We would like to interact with database using domain-specific language, such as SQL or mongo.
+## Technology
+- NL2SQL: A technology that translates human language into structured SQL queries, allowing non-technical users to
+interact with databases, ask natural language questions, and receive answers in real-time.
+- LLM: Large language model
+
 
 
 ## Timeline
